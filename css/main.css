@@ -97,6 +97,7 @@ p {
 footer {
 	background: #ef7043;
 	height: 275px;
+	margin-top: -2px;
 }
 
 .footerbottom {
